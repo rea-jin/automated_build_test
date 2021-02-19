@@ -1,3 +1,3 @@
 FROM dockersamples/static-site
-ENV AUTHOR="MAC22"
+ENV AUTHOR="MAC3"
 
